@@ -881,6 +881,10 @@
 			#thumbnails article .thumbnail.thumbnail--logo-sketch {
 			    background-image: url(../../images/thumbs/notebook.png);
 			}
+			#thumbnails article .thumbnail.thumbnail--logo-sketch-color {
+			    background-image: url(../../images/thumbs/sketch-color-logo.png);
+			    background-size: 128px;
+			}
 
 				#thumbnails article .thumbnail img {
 					display: block;
