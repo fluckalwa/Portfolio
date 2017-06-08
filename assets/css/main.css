@@ -869,6 +869,9 @@
 			    background-position: center center;
 			    background-repeat: no-repeat;
 			}
+			#thumbnails article .thumbnail.thumbnail--logo-graduate-cap {
+			    background-image: url(../../images/thumbs/graduate-cap-logo.png);
+			}
 			#thumbnails article .thumbnail.thumbnail--logo-mts {
 			    background-image: url(../../images/thumbs/mts-logo-transparent.png);
 			}
